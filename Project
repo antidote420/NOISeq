@@ -262,5 +262,6 @@ loaded via a namespace (and not attached):
 # 14. End of Script ----
 # The script successfully completes various RNA-seq analyses, including PCA, volcano plots, MA plots, 
 # and correlation heatmaps, for comparisons between SARS, Rem, and Mock conditions.
-
+# File Link: https://canvas.qut.edu.au/courses/17436/files/4786895/download
+# Tools Used: NOISeq
 
