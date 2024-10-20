@@ -1,3 +1,4 @@
+set.seed(123) 
 # 1. Install and Load Required Packages ----
 # This block installs and loads the necessary libraries.
 # It first checks if the packages are installed, and if not, installs them.
@@ -257,6 +258,9 @@ loaded via a namespace (and not attached):
 [25] gtable_0.3.5    
 
 
+
 # 14. End of Script ----
 # The script successfully completes various RNA-seq analyses, including PCA, volcano plots, MA plots, 
 # and correlation heatmaps, for comparisons between SARS, Rem, and Mock conditions.
+
+
